@@ -1,0 +1,16 @@
+E:\Study\Code\Xamarin\Label_Button_Entry\Label_Button_Entry\bin\Debug\netstandard2.0\Label_Button_Entry.deps.json
+E:\Study\Code\Xamarin\Label_Button_Entry\Label_Button_Entry\bin\Debug\netstandard2.0\Label_Button_Entry.dll
+E:\Study\Code\Xamarin\Label_Button_Entry\Label_Button_Entry\bin\Debug\netstandard2.0\ref\Label_Button_Entry.dll
+E:\Study\Code\Xamarin\Label_Button_Entry\Label_Button_Entry\bin\Debug\netstandard2.0\Label_Button_Entry.pdb
+E:\Study\Code\Xamarin\Label_Button_Entry\Label_Button_Entry\obj\Debug\netstandard2.0\Label_Button_Entry.csproj.AssemblyReference.cache
+E:\Study\Code\Xamarin\Label_Button_Entry\Label_Button_Entry\obj\Debug\netstandard2.0\Label_Button_Entry.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\Code\Xamarin\Label_Button_Entry\Label_Button_Entry\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Study\Code\Xamarin\Label_Button_Entry\Label_Button_Entry\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Study\Code\Xamarin\Label_Button_Entry\Label_Button_Entry\obj\Debug\netstandard2.0\Label_Button_Entry.AssemblyInfoInputs.cache
+E:\Study\Code\Xamarin\Label_Button_Entry\Label_Button_Entry\obj\Debug\netstandard2.0\Label_Button_Entry.AssemblyInfo.cs
+E:\Study\Code\Xamarin\Label_Button_Entry\Label_Button_Entry\obj\Debug\netstandard2.0\Label_Button_Entry.csproj.CoreCompileInputs.cache
+E:\Study\Code\Xamarin\Label_Button_Entry\Label_Button_Entry\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Study\Code\Xamarin\Label_Button_Entry\Label_Button_Entry\obj\Debug\netstandard2.0\Label_Button_Entry.dll
+E:\Study\Code\Xamarin\Label_Button_Entry\Label_Button_Entry\obj\Debug\netstandard2.0\ref\Label_Button_Entry.dll
+E:\Study\Code\Xamarin\Label_Button_Entry\Label_Button_Entry\obj\Debug\netstandard2.0\Label_Button_Entry.pdb
+E:\Study\Code\Xamarin\Label_Button_Entry\Label_Button_Entry\obj\Debug\netstandard2.0\LoginUsingCSharp.xaml.g.cs
